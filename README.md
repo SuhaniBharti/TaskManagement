@@ -1,8 +1,8 @@
 created a react app frontend.
 
-added components cards,inputData and sidebar.
+added components like cards,inputData and sidebar.
 
-made different pages for various purposes.
+made different pages for various purposes like all tasks,completedTasks,important task,login in signup,incompleted task,important tasks.
 
 created auth.js for authentication
 
@@ -10,7 +10,7 @@ User Authentication: Signup and signin functionalities implemented using JWT (JS
 
 Task Management:
 
-Create, update, and delete tasks.
+To create, update, and delete tasks.
 
 Mark tasks as completed or in progress.
 
