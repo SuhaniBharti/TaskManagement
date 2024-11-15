@@ -14,8 +14,10 @@ LOGIN-
 Task Management:
 
 To create, update, and delete tasks.
-
-
+CREATE-
+![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/1c469ebc8d505234b203432177052f3ad06e7c5d/ADD.png)
+UPDATE-
+![image_url]()
 Mark tasks as completed or in progress.
 
 State Management: Utilized Redux Toolkit for efficient state management across the application.
