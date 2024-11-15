@@ -6,11 +6,13 @@ made different pages for various purposes like all tasks,completedTasks,importan
 
 created auth.js for authentication
 
-User Authentication: Signup and signin functionalities implemented using JWT (JSON Web Tokens) and password encryption with bcrypt for security.
+User Authentication: Signup and login functionalities implemented using JWT (JSON Web Tokens) and password encryption with bcrypt for security.
+![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/66131bce09e5203e7702708cef7393289235377c/Screenshot%202024-11-15%20065747.png)
 
 Task Management:
 
 To create, update, and delete tasks.
+
 
 Mark tasks as completed or in progress.
 
