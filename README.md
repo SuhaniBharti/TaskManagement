@@ -19,7 +19,7 @@ CREATE-
 UPDATE-
 ![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/4632b1f3a3732b239ecc40fa1d0ae7bfba9c00ad/update.png)
 Mark tasks as completed or in progress.
-
+![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/fc3ef2d3ec4c978985e1ac29fb8c2c8df074b58b/Screenshot%202024-11-15%20070015.png)
 State Management: Utilized Redux Toolkit for efficient state management across the application.
 
 Responsive Design: Built with a responsive UI for seamless usage across different devices.
