@@ -34,7 +34,7 @@ React: For building the user interface.
 
 Redux Toolkit: For state management.
 
-Bootstrap/CSS: For responsive and modern design.
+used CSS and imported react icons for designing
 
 Backend
 
