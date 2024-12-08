@@ -3,15 +3,16 @@ TASK MANAGEMENT
 It is a full-stack website to organize, track, and complete tasks efficiently to achieve specific goals. It allows users to add, create, update, and delete tasks and helps users mark certain tasks as important or completed. Additionally, it provides a user-friendly interface to manage tasks easily and ensures better productivity through effective task  organization.
 
 STEPS-
-created a react app frontend.
+•	Created a react app frontend.
 
-added components like cards,inputData and sidebar.
+•	Added components like cards,inputData and sidebar.
 
-made different pages for various purposes like all tasks,completedTasks,important task,login in signup,incompleted task,important tasks.
+•	Made different pages for various purposes like all tasks,completedTasks,important task,login , signup,incompleted task,important tasks.
 
-created auth.js for authentication
+•	created auth.js for authentication
 
-User Authentication: Signup and login functionalities implemented using JWT (JSON Web Tokens) and password encryption with bcrypt for security.
+•	User Authentication: Signup and login functionalities implemented using JWT (JSON Web Tokens) and password encryption with bcrypt for security.
+
 
 SIGNUP-
 ![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/66131bce09e5203e7702708cef7393289235377c/Screenshot%202024-11-15%20065747.png)
@@ -26,11 +27,17 @@ UPDATE-
 ![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/4632b1f3a3732b239ecc40fa1d0ae7bfba9c00ad/update.png)
 Mark tasks as completed or in progress.
 ![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/fc3ef2d3ec4c978985e1ac29fb8c2c8df074b58b/Screenshot%202024-11-15%20070015.png)
-State Management: Utilized Redux Toolkit for efficient state management across the application.
 
-Responsive Design: Built with a responsive UI for seamless usage across different devices.
+•	created auth.js for authentication
 
-Real-time Updates: Live task updates without page refreshes.
+•	User Authentication: Signup and login functionalities implemented using JWT (JSON Web Tokens) and password encryption with bcrypt for security.
+
+•	State Management: Utilized Redux Toolkit for efficient state management across the application.
+
+•	Responsive Design: Built with a responsive UI for seamless usage across different devices.
+
+•	Real-time Updates: Live task updates without page refreshes.
+
 
 TECHNOLOGIES USED-
 
