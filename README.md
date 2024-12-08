@@ -1,3 +1,8 @@
+TASK MANAGEMENT
+
+It is a full-stack website to organize, track, and complete tasks efficiently to achieve specific goals. It allows users to add, create, update, and delete tasks and helps users mark certain tasks as important or completed. Additionally, it provides a user-friendly interface to manage tasks easily and ensures better productivity through effective task  organization.
+
+STEPS-
 created a react app frontend.
 
 added components like cards,inputData and sidebar.
@@ -26,17 +31,17 @@ Responsive Design: Built with a responsive UI for seamless usage across differen
 
 Real-time Updates: Live task updates without page refreshes.
 
-Technologies Used
+TECHNOLOGIES USED-
 
-Frontend
+FRONTEND
 
 React: For building the user interface.
 
 Redux Toolkit: For state management.
 
-used CSS and imported react icons for designing
+Used CSS and imported react icons for designing.
 
-Backend
+BACKEND
 
 Node.js & Express.js: For creating the server and RESTful APIs.
 
