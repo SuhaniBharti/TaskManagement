@@ -12,6 +12,7 @@ made different pages for various purposes like all tasks,completedTasks,importan
 created auth.js for authentication
 
 User Authentication: Signup and login functionalities implemented using JWT (JSON Web Tokens) and password encryption with bcrypt for security.
+
 SIGNUP-
 ![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/66131bce09e5203e7702708cef7393289235377c/Screenshot%202024-11-15%20065747.png)
 LOGIN-
@@ -33,7 +34,7 @@ Real-time Updates: Live task updates without page refreshes.
 
 TECHNOLOGIES USED-
 
-FRONTEND
+FRONTEND-
 
 React: For building the user interface.
 
@@ -41,12 +42,12 @@ Redux Toolkit: For state management.
 
 Used CSS and imported react icons for designing.
 
-BACKEND
+BACKEND-
 
 Node.js & Express.js: For creating the server and RESTful APIs.
 
 Nodemon: used for automatic server restarts during development.
 
-Database
+Database-
 
 MongoDB (Cloud): Used as the primary database for storing user data and tasks.
