@@ -25,8 +25,6 @@ CREATE-
 ![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/1c469ebc8d505234b203432177052f3ad06e7c5d/ADD.png)
 UPDATE-
 ![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/4632b1f3a3732b239ecc40fa1d0ae7bfba9c00ad/update.png)
-Mark tasks as completed or in progress.
-![image_url](https://github.com/SuhaniBharti/TaskManagement/blob/fc3ef2d3ec4c978985e1ac29fb8c2c8df074b58b/Screenshot%202024-11-15%20070015.png)
 
 •	created auth.js for authentication
 
