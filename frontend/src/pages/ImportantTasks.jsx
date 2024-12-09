@@ -12,7 +12,7 @@ const Importanttasks = () => {
   useEffect(() => {
     const fetch = async()=>{
       const response=await axios.get(
-        `${window.location.origin}/api/v2/get-imp-tasks`,
+        `http://localhost:1000/api/v2/get-imp-tasks`,
         {headers}
       );
       setData(response.data.data);

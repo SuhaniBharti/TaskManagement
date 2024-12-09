@@ -22,7 +22,7 @@ const Alltasks = () => {
   useEffect(() => {
     const fetch = async()=>{
       const response=await axios.get(
-        `${window.location.origin}/api/v2/get-all-tasks`,
+        `http://localhost:1000/api/v2/get-all-tasks`,
         {headers}
       );
       setData(response.data.data);

@@ -22,7 +22,7 @@ const Login = () => {
       alert("All fields are required");
    } else{
     const response= await axios.post(
-     `${window.location.origin}/api/v1/log-in`,
+     `http://localhost:1000/api/v1/log-in`,
      Data
    );
      setData({username:"",password:""});
